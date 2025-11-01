@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092816612028",
+    "project_id": "symtor-88880",
+    "storage_bucket": "symtor-88880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092816612028:android:eec0ef04adcfaf721e7eb9",
+        "android_client_info": {
+          "package_name": "com.example.symtor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092816612028-752a39m210hjs11kul5tcl6iq4t25i0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDg5fvCwFdNqypILPPzMCdLsRw4jiW8Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092816612028-752a39m210hjs11kul5tcl6iq4t25i0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
