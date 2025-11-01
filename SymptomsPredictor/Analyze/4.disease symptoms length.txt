@@ -1,0 +1,491 @@
+ACL injury --> 4
+Abdominal aortic aneurysm --> 5
+Achalasia --> 6
+Acid reflux --> 7
+Acne --> 5
+Actinic keratosis --> 2
+Acute Bronchitis --> 7
+Acute lymphoblastic leukemia --> 9
+Acute myeloid leukemia --> 9
+Addison's disease --> 9
+Adult attention-deficit/hyperactivity disorder --> 9
+Agoraphobia --> 5
+Alcohol use disorder --> 9
+Allergic conjunctivitis --> 6
+Allergic rhinitis --> 9
+Allergy to mold --> 6
+Alopecia areata --> 4
+Alzheimer's disease --> 9
+Amoebiasis --> 8
+Amyloidosis --> 9
+Anal fissure --> 2
+Anaphylaxis --> 9
+Anemia --> 9
+Angelman syndrome --> 8
+Angina --> 9
+Ankylosing spondylitis --> 9
+Anorexia nervosa --> 9
+Antiphospholipid syndrome --> 8
+Antisocial personality disorder --> 9
+Anxiety disorder --> 9
+Aortic dissection --> 8
+Aortic stenosis --> 9
+Aphasia --> 5
+Appendicitis --> 9
+Arrhythmia --> 7
+Arteriovenous malformation --> 3
+Asperger syndrome --> 9
+Asthma --> 9
+Astigmatism --> 3
+Atherosclerosis --> 5
+Athlete's foot --> 9
+Atopic eczema --> 8
+Atrial fibrillation --> 8
+Atrial flutter --> 6
+Atrial septal defect --> 8
+Attention deficit hyperactivity disorder (ADHD) --> 9
+Autism --> 9
+Avascular necrosis --> 8
+Bacterial vaginosis --> 4
+Balanitis --> 5
+Barrett's esophagus --> 6
+Bed sore --> 8
+Bedbugs --> 4
+Bee and wasp stings --> 4
+Bell's palsy --> 4
+Benign prostate enlargement --> 2
+Bipolar disorder --> 8
+Blepharitis --> 9
+Blindness --> 2
+Body dysmorphic disorder (BDD) --> 5
+Bone fracture --> 8
+Bone tumor --> 7
+Borderline personality disorder --> 9
+Brain aneurysm --> 8
+Brain tumours --> 9
+Breast cancer --> 4
+Bronchiectasis --> 9
+Bronchiolitis --> 9
+Bulimia --> 9
+Burn --> 9
+C. Diff. Colitis --> 5
+Canker sore --> 2
+Cardiac arrest --> 7
+Cardiomyopathy --> 9
+Carpal tunnel syndrome --> 9
+Cat scratch fever --> 5
+Cataracts --> 4
+Cauliflower ear --> 3
+Cavity --> 2
+Cellulite --> 3
+Cellulitis --> 9
+Cerebral palsy --> 9
+Cervical cancer --> 9
+Chalazion --> 2
+Charcot-Marie-Tooth disorder --> 9
+Chiari malformation --> 9
+Chickenpox --> 9
+Chilblains --> 6
+Childhood obesity --> 4
+Chlamydia --> 9
+Cholecystitis --> 9
+Chronic fatigue syndrome (CFS/ME) --> 9
+Chronic kidney disease --> 9
+Chronic lymphocytic leukemia --> 2
+Chronic myeloid leukemia --> 9
+Chronic obstructive pulmonary disease --> 8
+Chronic pain --> 9
+Cirrhosis --> 9
+Cleft lip and cleft palate --> 6
+Clinical depression --> 9
+Club foot --> 5
+Cluster headaches --> 9
+Coarctation of the aorta --> 8
+Coeliac disease --> 9
+Cold sores --> 8
+Colon cancer --> 9
+Colorectal polyp --> 1
+Common cold --> 9
+Complex regional pain syndrome --> 9
+Concussion --> 9
+Congenital adrenal hyperplasia --> 9
+Conjunctivitis --> 9
+Contact dermatitis --> 9
+Corn --> 2
+Coronary heart disease --> 7
+Costochondritis --> 3
+Cradle cap --> 8
+Crohn's disease --> 9
+Crossed eye --> 4
+Croup --> 9
+Cystic fibrosis --> 9
+Cystocele --> 2
+De Quervain's tenosynovitis --> 4
+Deep vein thrombosis --> 6
+Degenerative disc disease --> 7
+Dementia --> 9
+Dental abscess --> 8
+Dermatitis herpetiformis --> 6
+Diabetic ketoacidosis --> 9
+Diabetic neuropathy --> 5
+Diabetic retinopathy --> 7
+Diaper rash --> 6
+Dislocated shoulder --> 5
+Dissociative identity disorder --> 9
+Diverticulosis --> 3
+Dog attack --> 5
+Down syndrome --> 9
+Drug allergy --> 9
+Dry eyes --> 6
+Duchenne muscular dystrophy --> 9
+Dupuytren's contracture --> 2
+Dyslexia --> 3
+Dystonia --> 6
+Ear infections --> 8
+Early menopause --> 9
+Eclampsia --> 9
+Ectopic pregnancy --> 8
+Ehlers-Danlos syndromes --> 9
+Encephalitis --> 9
+Encephalopathy --> 9
+Endocarditis --> 6
+Endometriosis --> 9
+Epilepsy --> 9
+Erectile dysfunction (impotence) --> 4
+Erythema nodosum --> 9
+Esophageal cancer --> 9
+Esophageal varices --> 8
+Esophagitis --> 8
+Eye injury --> 8
+Eye web --> 5
+Farsighted --> 6
+Fetal alcohol syndrome --> 9
+Fibrocystic breast disease --> 2
+Fibroids --> 9
+Fibromyalgia --> 9
+Flat feet --> 1
+Flu --> 9
+Folliculitis --> 8
+Fragile X syndrome --> 9
+Frostbite --> 6
+Frozen shoulder --> 3
+Fungal infection --> 8
+G6PD deficiency --> 7
+Gallstones --> 5
+Ganglion cyst --> 3
+Gangrene --> 9
+Gastritis --> 8
+Gastroparesis --> 9
+Generalised anxiety disorder in adults --> 9
+Genital herpes --> 5
+Genital warts --> 5
+Gestational diabetes --> 6
+Giardiasis --> 9
+Gilbert's syndrome --> 1
+Glandular fever --> 9
+Glaucoma --> 3
+Goiter --> 7
+Gonorrhoea --> 9
+Gout --> 7
+Granulomatosis with polyangiitis --> 9
+Graves' disease --> 9
+Groin hernia --> 4
+Group B streptococcal infection --> 8
+Gum disease --> 9
+Gynecomastia --> 1
+HIV/AIDS --> 9
+Haemophilia --> 9
+Hand, foot and mouth disease --> 9
+Hashimoto's disease --> 9
+Head and neck cancer --> 4
+Head lice and nits --> 2
+Hearing loss --> 5
+Heart attack --> 9
+Heart failure --> 9
+Heat rash (prickly heat) --> 6
+Hemangioma --> 2
+Hemorrhagic stroke --> 9
+Henoch-Schönlein purpura --> 8
+Hepatitis A --> 9
+Hepatitis B --> 4
+Hepatitis C --> 9
+Hepatitis E --> 9
+Hepatocellular carcinoma --> 7
+Hernia --> 7
+Herpangina --> 9
+Hiatus hernia --> 9
+Hidradenitis suppurativa --> 9
+High cholesterol --> 3
+Hip dislocation --> 7
+Hip fracture --> 6
+Hirschsprung's disease --> 7
+Hives --> 5
+Hodgkin's lymphoma --> 7
+Horner's syndrome --> 5
+Human papillomavirus (HPV) --> 2
+Huntington's disease --> 9
+Hydrocele --> 2
+Hydrocephalus --> 9
+Hydronephrosis --> 3
+Hypercalcemia --> 9
+Hyperdontia --> 3
+Hyperthyroidism --> 9
+Hypertrophic cardiomyopathy --> 8
+Hypogonadism --> 9
+Hyponatremia --> 9
+Ichthyosis --> 8
+Idiopathic intracranial hypertension --> 8
+Idiopathic thrombocytopenic purpura --> 7
+Iliotibial band syndrome --> 4
+Impetigo --> 3
+Infant respiratory distress syndrome --> 7
+Infertility --> 2
+Inflammatory breast cancer --> 5
+Ingrown toenail --> 4
+Insect bites and stings --> 5
+Insomnia --> 4
+Insulin resistance --> 5
+Interstitial cystitis --> 4
+Interstitial lung disease --> 6
+Intrauterine growth restriction --> 1
+Iron deficiency --> 8
+Iron deficiency anaemia --> 9
+Iron overload --> 8
+Irritable bowel syndrome (IBS) --> 9
+Jet lag --> 6
+Jock itch --> 3
+Keratitis --> 7
+Keratoconus --> 8
+Keratosis pilaris --> 5
+Kidney infection --> 9
+Kidney stone --> 5
+Klinefelter syndrome --> 9
+Kyphosis --> 9
+Labyrinthitis --> 5
+Lactose intolerance --> 9
+Laryngitis --> 5
+Latex allergy --> 6
+Lazy eye --> 3
+Lead poisoning --> 9
+Leukemia --> 9
+Leukoplakia --> 2
+Lichen planus --> 9
+Lichen sclerosus --> 7
+Liver cancer --> 9
+Liver failure --> 9
+Long QT syndrome --> 7
+Lordosis --> 3
+Low back pain --> 6
+Low blood sugar (hypoglycaemia) --> 9
+Lumbar spinal stenosis --> 7
+Lung cancer --> 9
+Lupus --> 9
+Lymphedema --> 9
+Macular degeneration --> 7
+Malabsorption --> 7
+Malaria --> 9
+Male or Female pattern baldness --> 1
+Malnutrition --> 6
+Marfan syndrome --> 9
+Mastoiditis --> 7
+Melasma --> 1
+Meningitis --> 8
+Menopause --> 9
+Metabolic syndrome --> 5
+Microcephaly --> 9
+Migraine --> 9
+Misaligned teeth --> 3
+Miscarriage --> 9
+Misophonia --> 6
+Mitral valve prolapse --> 7
+Molar pregnancy --> 7
+Molluscum contagiosum --> 3
+Morton's neuroma --> 3
+Motion sickness --> 9
+Multiple myeloma --> 9
+Multiple sclerosis --> 9
+Muscular dystrophy --> 9
+Myasthenia gravis --> 7
+Myelodysplastic syndrome --> 9
+Myocarditis --> 9
+Ménière's disease --> 7
+Narcissistic personality disorder --> 5
+Narcolepsy --> 5
+Nasal polyps --> 6
+Nasal septum deviation --> 5
+Nearsighted --> 5
+Neuroendocrine tumor --> 2
+Neurofibromatosis --> 9
+Neutropenia --> 4
+Non-Hodgkin lymphoma --> 8
+Non-alcoholic fatty liver disease (NAFLD) --> 1
+Nummular dermatitis --> 8
+Obesity --> 7
+Obsessive compulsive disorder (OCD) --> 9
+Opioid addiction and dependence --> 9
+Oppositional defiant disorder --> 9
+Optic neuritis --> 7
+Oral cancer --> 8
+Oral thrush (mouth thrush) --> 7
+Osgood-Schlatter disease --> 4
+Osteoarthritis --> 8
+Osteoporosis --> 2
+Ovarian cancer --> 9
+Ovarian cyst --> 9
+PMS (premenstrual syndrome) --> 9
+Paget's disease of bone --> 9
+Pancreatic cancer --> 9
+Pancreatitis --> 9
+Parkinson's disease --> 9
+Patellofemoral pain syndrome --> 4
+Pectus excavatum --> 7
+Pelvic inflammatory disease --> 9
+Perforated eardrum --> 7
+Pericarditis --> 5
+Peripheral artery disease --> 5
+Peripheral neuropathy --> 9
+Peritonitis --> 8
+Peritonsillar abscess --> 9
+Pernicious anemia --> 7
+Persistent depressive disorder --> 9
+Peyronie's disease --> 3
+Piles (haemorrhoids) --> 2
+Pilonidal sinus --> 6
+Piriformis syndrome --> 3
+Pityriasis rosea --> 7
+Pityriasis versicolor --> 4
+Placenta previa --> 1
+Plagiocephaly --> 1
+Plantar fasciitis --> 6
+Pleurisy --> 6
+Pneumonia --> 9
+Pneumothorax --> 8
+Polycystic kidney disease --> 7
+Polymyalgia rheumatica --> 6
+Post-traumatic stress disorder (PTSD) --> 9
+Postnatal depression --> 9
+Postpartum hemorrhage --> 3
+Postural orthostatic tachycardia syndrome --> 9
+Pre-eclampsia --> 7
+Precocious puberty --> 9
+Prediabetes --> 5
+Premenstrual dysphoric disorder --> 9
+Preterm birth --> 4
+Priapism --> 3
+Prolactinoma --> 7
+Prostate cancer --> 1
+Psoriasis --> 9
+Psoriatic arthritis --> 9
+Psychosis --> 9
+Pulmonary edema --> 9
+Pulmonary embolism --> 7
+Pulmonary hypertension --> 9
+Pyloric stenosis --> 9
+Raynaud's --> 7
+Rectal prolapse --> 3
+Repetitive strain injury --> 5
+Respiratory distress syndrome --> 9
+Restless legs syndrome --> 6
+Retinal detachment --> 9
+Rhabdomyolysis --> 9
+Rheumatoid arthritis --> 9
+Ringworm --> 7
+Rosacea --> 9
+Roseola --> 8
+Rotator cuff tear --> 5
+Rotator cuff tendinitis --> 3
+Salmonella --> 9
+Sarcoidosis --> 9
+Scabies --> 4
+Schizoaffective disorder --> 9
+Schizophrenia --> 9
+Sciatica --> 9
+Scleroderma --> 9
+Scoliosis --> 5
+Seasonal affective disorder --> 9
+Seborrheic dermatitis --> 7
+Separation anxiety --> 8
+Sepsis --> 9
+Septic shock --> 9
+Shaken baby syndrome --> 9
+Shin splints --> 2
+Shingles --> 9
+Shoulder impingement --> 7
+Sickle cell anemia --> 9
+Sinusitis (sinus infection) --> 9
+Sjögren's syndrome --> 9
+Skin cancer (melanoma) --> 4
+Skin tags --> 2
+Slapped cheek syndrome --> 9
+Sleep apnoea --> 9
+Sleep paralysis --> 3
+Sleepwalking --> 4
+Slipped disc --> 9
+Soil-transmitted helminthiasis --> 5
+Spider bite --> 6
+Spina bifida --> 9
+Spinal cord injury --> 9
+Spondylitis --> 4
+Spondylolisthesis --> 5
+Spondylosis --> 9
+Sprained ankle --> 6
+Staph infection --> 9
+Stasis dermatitis --> 9
+Stomach cancer --> 9
+Stomach flu --> 9
+Stomach ulcer --> 9
+Strep throat --> 9
+Stroke --> 9
+Stye --> 6
+Subconjunctival hemorrhage --> 1
+Sunburn --> 9
+Supraventricular tachycardia (SVT) --> 7
+Swimmer's ear --> 6
+Swine flu --> 9
+Syndrome of inappropriate antidiuretic hormone secretion --> 9
+Syphilis --> 9
+Taeniasis --> 3
+Tardive dyskinesia --> 3
+Temporal arteritis --> 9
+Temporomandibular disorder (TMD) --> 9
+Tennis elbow --> 4
+Tension-type headaches --> 7
+Testicular torsion --> 6
+Thalassemia --> 8
+Thoracic outlet syndrome --> 7
+Thyroid cancer --> 2
+Thyroid nodules --> 2
+Thyroiditis --> 9
+Tonsil stones --> 2
+Tonsillitis --> 9
+Torn meniscus --> 5
+Torticollis --> 7
+Tourette syndrome --> 9
+Toxoplasmosis --> 5
+Transient ischaemic attack (TIA) --> 9
+Traumatic brain injury --> 9
+Trichomoniasis --> 8
+Trigeminal neuralgia --> 6
+Trigger finger --> 6
+Trochanteric bursitis --> 3
+Tuberculosis --> 9
+Turner syndrome --> 9
+Type 1 diabetes --> 9
+Type 2 diabetes --> 8
+Ulcerative colitis --> 9
+Umbilical hernia --> 2
+Underactive thyroid (hypothyroidism) --> 9
+Upper respiratory infection --> 9
+Uterine cancer --> 6
+Uveitis --> 9
+Vaginal yeast infection --> 6
+Vaginitis --> 7
+Varicose veins --> 6
+Vasculitis --> 9
+Ventricular septal defect --> 9
+Vitamin B12 deficiency --> 8
+Vitiligo --> 2
+Von Willebrand disease --> 7
+Warts and verrucas --> 5
+Whiplash --> 9
+Whooping cough --> 6

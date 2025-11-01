@@ -1,0 +1,491 @@
+ACL injury
+Abdominal aortic aneurysm
+Achalasia
+Acid reflux
+Acne
+Actinic keratosis
+Acute Bronchitis
+Acute lymphoblastic leukemia
+Acute myeloid leukemia
+Addison's disease
+Adult attention-deficit/hyperactivity disorder
+Agoraphobia
+Alcohol use disorder
+Allergic conjunctivitis
+Allergic rhinitis
+Allergy to mold
+Alopecia areata
+Alzheimer's disease
+Amoebiasis
+Amyloidosis
+Anal fissure
+Anaphylaxis
+Anemia
+Angelman syndrome
+Angina
+Ankylosing spondylitis
+Anorexia nervosa
+Antiphospholipid syndrome
+Antisocial personality disorder
+Anxiety disorder
+Aortic dissection
+Aortic stenosis
+Aphasia
+Appendicitis
+Arrhythmia
+Arteriovenous malformation
+Asperger syndrome
+Asthma
+Astigmatism
+Atherosclerosis
+Athlete's foot
+Atopic eczema
+Atrial fibrillation
+Atrial flutter
+Atrial septal defect
+Attention deficit hyperactivity disorder (ADHD)
+Autism
+Avascular necrosis
+Bacterial vaginosis
+Balanitis
+Barrett's esophagus
+Bed sore
+Bedbugs
+Bee and wasp stings
+Bell's palsy
+Benign prostate enlargement
+Bipolar disorder
+Blepharitis
+Blindness
+Body dysmorphic disorder (BDD)
+Bone fracture
+Bone tumor
+Borderline personality disorder
+Brain aneurysm
+Brain tumours
+Breast cancer
+Bronchiectasis
+Bronchiolitis
+Bulimia
+Burn
+C. Diff. Colitis
+Canker sore
+Cardiac arrest
+Cardiomyopathy
+Carpal tunnel syndrome
+Cat scratch fever
+Cataracts
+Cauliflower ear
+Cavity
+Cellulite
+Cellulitis
+Cerebral palsy
+Cervical cancer
+Chalazion
+Charcot-Marie-Tooth disorder
+Chiari malformation
+Chickenpox
+Chilblains
+Childhood obesity
+Chlamydia
+Cholecystitis
+Chronic fatigue syndrome (CFS/ME)
+Chronic kidney disease
+Chronic lymphocytic leukemia
+Chronic myeloid leukemia
+Chronic obstructive pulmonary disease
+Chronic pain
+Cirrhosis
+Cleft lip and cleft palate
+Clinical depression
+Club foot
+Cluster headaches
+Coarctation of the aorta
+Coeliac disease
+Cold sores
+Colon cancer
+Colorectal polyp
+Common cold
+Complex regional pain syndrome
+Concussion
+Congenital adrenal hyperplasia
+Conjunctivitis
+Contact dermatitis
+Corn
+Coronary heart disease
+Costochondritis
+Cradle cap
+Crohn's disease
+Crossed eye
+Croup
+Cystic fibrosis
+Cystocele
+De Quervain's tenosynovitis
+Deep vein thrombosis
+Degenerative disc disease
+Dementia
+Dental abscess
+Dermatitis herpetiformis
+Diabetic ketoacidosis
+Diabetic neuropathy
+Diabetic retinopathy
+Diaper rash
+Dislocated shoulder
+Dissociative identity disorder
+Diverticulosis
+Dog attack
+Down syndrome
+Drug allergy
+Dry eyes
+Duchenne muscular dystrophy
+Dupuytren's contracture
+Dyslexia
+Dystonia
+Ear infections
+Early menopause
+Eclampsia
+Ectopic pregnancy
+Ehlers-Danlos syndromes
+Encephalitis
+Encephalopathy
+Endocarditis
+Endometriosis
+Epilepsy
+Erectile dysfunction (impotence)
+Erythema nodosum
+Esophageal cancer
+Esophageal varices
+Esophagitis
+Eye injury
+Eye web
+Farsighted
+Fetal alcohol syndrome
+Fibrocystic breast disease
+Fibroids
+Fibromyalgia
+Flat feet
+Flu
+Folliculitis
+Fragile X syndrome
+Frostbite
+Frozen shoulder
+Fungal infection
+G6PD deficiency
+Gallstones
+Ganglion cyst
+Gangrene
+Gastritis
+Gastroparesis
+Generalised anxiety disorder in adults
+Genital herpes
+Genital warts
+Gestational diabetes
+Giardiasis
+Gilbert's syndrome
+Glandular fever
+Glaucoma
+Goiter
+Gonorrhoea
+Gout
+Granulomatosis with polyangiitis
+Graves' disease
+Groin hernia
+Group B streptococcal infection
+Gum disease
+Gynecomastia
+HIV/AIDS
+Haemophilia
+Hand, foot and mouth disease
+Hashimoto's disease
+Head and neck cancer
+Head lice and nits
+Hearing loss
+Heart attack
+Heart failure
+Heat rash (prickly heat)
+Hemangioma
+Hemorrhagic stroke
+Henoch-Schönlein purpura
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis E
+Hepatocellular carcinoma
+Hernia
+Herpangina
+Hiatus hernia
+Hidradenitis suppurativa
+High cholesterol
+Hip dislocation
+Hip fracture
+Hirschsprung's disease
+Hives
+Hodgkin's lymphoma
+Horner's syndrome
+Human papillomavirus (HPV)
+Huntington's disease
+Hydrocele
+Hydrocephalus
+Hydronephrosis
+Hypercalcemia
+Hyperdontia
+Hyperthyroidism
+Hypertrophic cardiomyopathy
+Hypogonadism
+Hyponatremia
+Ichthyosis
+Idiopathic intracranial hypertension
+Idiopathic thrombocytopenic purpura
+Iliotibial band syndrome
+Impetigo
+Infant respiratory distress syndrome
+Infertility
+Inflammatory breast cancer
+Ingrown toenail
+Insect bites and stings
+Insomnia
+Insulin resistance
+Interstitial cystitis
+Interstitial lung disease
+Intrauterine growth restriction
+Iron deficiency
+Iron deficiency anaemia
+Iron overload
+Irritable bowel syndrome (IBS)
+Jet lag
+Jock itch
+Keratitis
+Keratoconus
+Keratosis pilaris
+Kidney infection
+Kidney stone
+Klinefelter syndrome
+Kyphosis
+Labyrinthitis
+Lactose intolerance
+Laryngitis
+Latex allergy
+Lazy eye
+Lead poisoning
+Leukemia
+Leukoplakia
+Lichen planus
+Lichen sclerosus
+Liver cancer
+Liver failure
+Long QT syndrome
+Lordosis
+Low back pain
+Low blood sugar (hypoglycaemia)
+Lumbar spinal stenosis
+Lung cancer
+Lupus
+Lymphedema
+Macular degeneration
+Malabsorption
+Malaria
+Male or Female pattern baldness
+Malnutrition
+Marfan syndrome
+Mastoiditis
+Melasma
+Meningitis
+Menopause
+Metabolic syndrome
+Microcephaly
+Migraine
+Misaligned teeth
+Miscarriage
+Misophonia
+Mitral valve prolapse
+Molar pregnancy
+Molluscum contagiosum
+Morton's neuroma
+Motion sickness
+Multiple myeloma
+Multiple sclerosis
+Muscular dystrophy
+Myasthenia gravis
+Myelodysplastic syndrome
+Myocarditis
+Ménière's disease
+Narcissistic personality disorder
+Narcolepsy
+Nasal polyps
+Nasal septum deviation
+Nearsighted
+Neuroendocrine tumor
+Neurofibromatosis
+Neutropenia
+Non-Hodgkin lymphoma
+Non-alcoholic fatty liver disease (NAFLD)
+Nummular dermatitis
+Obesity
+Obsessive compulsive disorder (OCD)
+Opioid addiction and dependence
+Oppositional defiant disorder
+Optic neuritis
+Oral cancer
+Oral thrush (mouth thrush)
+Osgood-Schlatter disease
+Osteoarthritis
+Osteoporosis
+Ovarian cancer
+Ovarian cyst
+PMS (premenstrual syndrome)
+Paget's disease of bone
+Pancreatic cancer
+Pancreatitis
+Parkinson's disease
+Patellofemoral pain syndrome
+Pectus excavatum
+Pelvic inflammatory disease
+Perforated eardrum
+Pericarditis
+Peripheral artery disease
+Peripheral neuropathy
+Peritonitis
+Peritonsillar abscess
+Pernicious anemia
+Persistent depressive disorder
+Peyronie's disease
+Piles (haemorrhoids)
+Pilonidal sinus
+Piriformis syndrome
+Pityriasis rosea
+Pityriasis versicolor
+Placenta previa
+Plagiocephaly
+Plantar fasciitis
+Pleurisy
+Pneumonia
+Pneumothorax
+Polycystic kidney disease
+Polymyalgia rheumatica
+Post-traumatic stress disorder (PTSD)
+Postnatal depression
+Postpartum hemorrhage
+Postural orthostatic tachycardia syndrome
+Pre-eclampsia
+Precocious puberty
+Prediabetes
+Premenstrual dysphoric disorder
+Preterm birth
+Priapism
+Prolactinoma
+Prostate cancer
+Psoriasis
+Psoriatic arthritis
+Psychosis
+Pulmonary edema
+Pulmonary embolism
+Pulmonary hypertension
+Pyloric stenosis
+Raynaud's
+Rectal prolapse
+Repetitive strain injury
+Respiratory distress syndrome
+Restless legs syndrome
+Retinal detachment
+Rhabdomyolysis
+Rheumatoid arthritis
+Ringworm
+Rosacea
+Roseola
+Rotator cuff tear
+Rotator cuff tendinitis
+Salmonella
+Sarcoidosis
+Scabies
+Schizoaffective disorder
+Schizophrenia
+Sciatica
+Scleroderma
+Scoliosis
+Seasonal affective disorder
+Seborrheic dermatitis
+Separation anxiety
+Sepsis
+Septic shock
+Shaken baby syndrome
+Shin splints
+Shingles
+Shoulder impingement
+Sickle cell anemia
+Sinusitis (sinus infection)
+Sjögren's syndrome
+Skin cancer (melanoma)
+Skin tags
+Slapped cheek syndrome
+Sleep apnoea
+Sleep paralysis
+Sleepwalking
+Slipped disc
+Soil-transmitted helminthiasis
+Spider bite
+Spina bifida
+Spinal cord injury
+Spondylitis
+Spondylolisthesis
+Spondylosis
+Sprained ankle
+Staph infection
+Stasis dermatitis
+Stomach cancer
+Stomach flu
+Stomach ulcer
+Strep throat
+Stroke
+Stye
+Subconjunctival hemorrhage
+Sunburn
+Supraventricular tachycardia (SVT)
+Swimmer's ear
+Swine flu
+Syndrome of inappropriate antidiuretic hormone secretion
+Syphilis
+Taeniasis
+Tardive dyskinesia
+Temporal arteritis
+Temporomandibular disorder (TMD)
+Tennis elbow
+Tension-type headaches
+Testicular torsion
+Thalassemia
+Thoracic outlet syndrome
+Thyroid cancer
+Thyroid nodules
+Thyroiditis
+Tonsil stones
+Tonsillitis
+Torn meniscus
+Torticollis
+Tourette syndrome
+Toxoplasmosis
+Transient ischaemic attack (TIA)
+Traumatic brain injury
+Trichomoniasis
+Trigeminal neuralgia
+Trigger finger
+Trochanteric bursitis
+Tuberculosis
+Turner syndrome
+Type 1 diabetes
+Type 2 diabetes
+Ulcerative colitis
+Umbilical hernia
+Underactive thyroid (hypothyroidism)
+Upper respiratory infection
+Uterine cancer
+Uveitis
+Vaginal yeast infection
+Vaginitis
+Varicose veins
+Vasculitis
+Ventricular septal defect
+Vitamin B12 deficiency
+Vitiligo
+Von Willebrand disease
+Warts and verrucas
+Whiplash
+Whooping cough
